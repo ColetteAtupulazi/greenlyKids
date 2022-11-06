@@ -1,0 +1,56 @@
+body {
+  font-family: "Helvetica", Sans-Serif;
+  background-image: url("people.jpg");
+  text-align: center;
+}
+.centerDiv{
+  z-index: 2;
+  position: absolute;
+  top: 20px;
+}
+h3 {
+  height: 5em;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+h3 {
+  margin: 0 }
+.jumbotron{
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+a:link {
+  color: green;
+}
+/* visited link */
+a:visited {
+  color: green;
+}
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+h1 {
+  margin: 1em 0;
+}
+.shadowBox{
+  margin: 5px 10px;
+	padding: 5px 5px;
+  border-radius: 5px;
+	background: rgba(255,255,255,0.50);
+	box-shadow: 10px 20px 50px 10px black;
+}
+#surveyButton{
+  margin: 5px 10px;
+	padding: 5px 5px;
+  border-radius: 5px;
+	background: rgba(255,255,255,0.50);
+	box-shadow: 10px 20px 50px 10px black;
+}
+
+footer {
+  padding-top: 2em;
+}

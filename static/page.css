@@ -1,0 +1,15 @@
+body{
+  background: #F1DDDF;
+  /*font-family: 'Didact Gothic';
+  font-family: 'Arial Narrow', Gadget, sans-serif;*/
+  font-family: Verdana, Geneva, sans-serif;
+  color: #384A11;
+  text-align: center;
+}
+h1 {
+  margin: 1em 0;
+}
+
+footer {
+  padding-top: 2em;
+}
